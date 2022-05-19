@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "9554e3405f3caa85",
+    "type": "split",
+    "children": [
+      {
+        "id": "26af96ca805031cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Android/Gradle/Gradle.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7af83416a283df6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0b87801cd2a1fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e36af29dda7742c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86a54b826ec7174d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04f984432eb35568",
+    "type": "split",
+    "children": [
+      {
+        "id": "205d4db2df23b2d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e002c7221c772d3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android/Gradle/Gradle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "26af96ca805031cd",
+  "lastOpenFiles": [
+    "Android/Gradle/Gradle.md",
+    "Android/Gradle/构建变体.md",
+    "Algorithm/EveryDay/根据BST的后序遍历数组重建二叉树.md",
+    "Algorithm/EveryDay/everyday.md"
+  ]
+}
