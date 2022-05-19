@@ -1,4 +1,4 @@
-##  1.Information Is Bits + Context
+## 1.Information Is Bits + Context
 
 ​     The representation of hello.c illustrates a fundamental idea: All information in a system—including disk fifiles, programs stored in memory, user data stored in memory, and data transferred across a network—is represented as a bunch of bits. The only thing that distinguishes different data objects is the **context** in which we view them. For example, in different contexts, the same sequence of bytes might represent an integer, flfloating-point number, character string, or machine instruction.
 

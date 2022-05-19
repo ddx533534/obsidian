@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Android/Gradle/Gradle.md",
-            "mode": "source"
+            "file": "Book/CSAPP/PART I.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Gradle/Gradle.md",
+                "file": "Book/CSAPP/PART I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "26af96ca805031cd",
   "lastOpenFiles": [
+    "Book/CSAPP/PART I.md",
+    "Book/CSAPP/Computer terms.md",
     "Android/Gradle/Gradle.md",
     "Android/Gradle/构建变体.md",
     "Algorithm/EveryDay/根据BST的后序遍历数组重建二叉树.md",
